@@ -1,6 +1,6 @@
 provider "aws" {
   region = "ap-south-1"
-  profile = "sudhanshu"
+  profile = "jayesh"
 }
 
 resource "aws_db_instance" "MySQL" {
